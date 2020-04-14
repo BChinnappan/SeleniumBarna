@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7369" started-at="2020-04-14T13:13:35Z" finished-at="2020-04-14T13:13:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7369" started-at="2020-04-14T13:13:35Z" finished-at="2020-04-14T13:13:43Z">
+      <class name="com.app.tests.HomePageTest">
+        <test-method status="PASS" signature="VerifyDressTag()[pri:0, instance:com.app.tests.HomePageTest@29647f75]" name="VerifyDressTag" duration-ms="21" started-at="2020-04-14T18:43:43Z" finished-at="2020-04-14T18:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDressTag -->
+        <test-method status="PASS" signature="VerifyTshirtTag()[pri:0, instance:com.app.tests.HomePageTest@29647f75]" name="VerifyTshirtTag" duration-ms="19" started-at="2020-04-14T18:43:43Z" finished-at="2020-04-14T18:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTshirtTag -->
+        <test-method status="PASS" signature="VerifyWomenTag()[pri:0, instance:com.app.tests.HomePageTest@29647f75]" name="VerifyWomenTag" duration-ms="19" started-at="2020-04-14T18:43:43Z" finished-at="2020-04-14T18:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyWomenTag -->
+      </class> <!-- com.app.tests.HomePageTest -->
+      <class name="com.app.tests.HomePageTestSize">
+        <test-method status="PASS" signature="VerifySizeDress()[pri:0, instance:com.app.tests.HomePageTestSize@19d481b]" name="VerifySizeDress" duration-ms="3063" started-at="2020-04-14T18:43:35Z" finished-at="2020-04-14T18:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySizeDress -->
+        <test-method status="PASS" signature="VerifySizeTshirt()[pri:0, instance:com.app.tests.HomePageTestSize@19d481b]" name="VerifySizeTshirt" duration-ms="1892" started-at="2020-04-14T18:43:38Z" finished-at="2020-04-14T18:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySizeTshirt -->
+        <test-method status="PASS" signature="VerifySizeWomen()[pri:0, instance:com.app.tests.HomePageTestSize@19d481b]" name="VerifySizeWomen" duration-ms="2340" started-at="2020-04-14T18:43:40Z" finished-at="2020-04-14T18:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySizeWomen -->
+      </class> <!-- com.app.tests.HomePageTestSize -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
